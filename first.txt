@@ -6,4 +6,21 @@ its saturday today
 
 
 
+<<<<<<< Updated upstream
 first change
+=======
+
+
+
+
+
+
+
+
+
+second change
+>>>>>>> Stashed changes
+
+
+
+i am living in mansehra.
